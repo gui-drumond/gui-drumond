@@ -1,16 +1,16 @@
 ###    👋 Hi there! 👋
 
-# Guilherme Fernandes Drumond
+#✨ Guilherme Fernandes Drumond ✨
 
 
-⚡[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/drumond-guilherme/)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
-⚡
+
 
 
 ### Hello! Welcome to my profile
-<img style="margin: 0 auto" src="https://pin.it/52FCieh" height="200">
+<img style="margin: 0 auto" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" height="200">
 
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
 
