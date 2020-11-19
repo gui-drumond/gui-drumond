@@ -13,10 +13,7 @@
 <img style="margin: 0 auto" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" height="200">
 
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
-
-- 🤓
--/👔\🏫 I’m a computer technician, I studied in Salesiano São José CPDB  <a target="_blank" href="http://www.essj.com.br/cpdb/">Centro Profissional Dom Bosco</a>
-- 👖
+- 🤓🏫 I’m a computer technician, I studied in Salesiano São José CPDB  <a target="_blank" href="http://www.essj.com.br/cpdb/">Centro Profissional Dom Bosco</a>
   
 ### About
 
