@@ -3,8 +3,9 @@
 ✨ Guilherme Fernandes Drumond ✨
 
 
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/drumond-guilherme/)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
 
 
