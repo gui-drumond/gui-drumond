@@ -1,27 +1,27 @@
-### Hi there 👋
+###    👋 Hi there! 👋
 
 # Guilherme Fernandes Drumond
 
 
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
+⚡[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/drumond-guilherme/)
-[![Hotmail](https://img.shields.io/badge/-Hotmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
-
+[![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
+⚡
 
 
 ### Hello! Welcome to my profile
-<img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
+<img style="margin: 0 auto" src="https://pin.it/52FCieh" height="200">
 
+- 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
 
-- 👷 I’m Software Engineer at <a target="_blank" href="https://www.animati.com.br//">Animati</a>
-- 👨‍🏫 I’m Training Instructor at <a target="_blank" href="https://ccea.org.br/">Centro Cultural Escrava Anastácia</a>
-- 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
-
-
+- 🤓
+-/👔\🏫 I’m a computer technician, I studied in Salesiano São José CPDB  <a target="_blank" href="http://www.essj.com.br/cpdb/">Centro Profissional Dom Bosco</a>
+- 👖
+  
 ### About
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Skillado Status](https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
