@@ -1,6 +1,6 @@
-###    👋 Hi there! 👋
+###    Hi there! 👋
 
-#✨ Guilherme Fernandes Drumond ✨
+✨ Guilherme Fernandes Drumond ✨
 
 
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
