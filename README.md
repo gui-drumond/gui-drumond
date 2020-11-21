@@ -11,7 +11,7 @@
 
 
 ### Hello! Welcome to my profile
-<img style="margin: 0 auto" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" height="200">
+<img style="margin: 0 auto; justify-content:center;" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" height="200">
 
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
 - 🤓🏫 I’m a computer technician, I studied in <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
