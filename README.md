@@ -1,6 +1,4 @@
-###    Hi there! 👋
-
-✨ Guilherme Fernandes Drumond ✨
+###   <p align="center"> Hi there! 👋, Guilherme Fernandes Drumond ✨ </p>
 
 
 
@@ -20,19 +18,10 @@
 
 ![Skillado Status](https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**Skillado/skillado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt="maykbrito"/> 
+<p align="center">
+<a href="https://twitter.com/drumond019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Drumond019" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/drumond-guilherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="drumond-guilherme" height="20" width="20" /></a>
+<a href="https://fb.com/drumond.guilherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="drumond.guilherme" height="20" width="20" /></a>
+<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drumond_guilherme" height="20" width="20" /></a>
+</p>
