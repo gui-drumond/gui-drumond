@@ -2,7 +2,7 @@
 <h3 align="center">Hello! Welcome to my profile</h3>
 
 <p align="center">
-<img alt="Esforço? sempre!" style="margin: 0 auto; justify-content:center;align-items:center" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif"  height="250">
+<img  style="margin: 0 auto; justify-content:center;align-items:center" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" alt="Esforço? sempre!" height="250">
 </p>
 <p align="left">
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
