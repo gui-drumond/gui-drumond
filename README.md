@@ -8,8 +8,7 @@
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
 - 🤓🏫 I’m a computer technician, I studied in <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
 </p>
-### About
-
+<h2>About</h2>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/drumond-guilherme/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
