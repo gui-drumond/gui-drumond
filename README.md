@@ -4,12 +4,12 @@
 <p align="center">
 <img  style="margin: 0 auto; justify-content:center;align-items:center" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" alt="Esforço? sempre!" height="250">
 </p>
+
+<h2>About</h2>
 <p align="left">
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
 - 🤓🏫 I’m a computer technician, I studied in <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
 </p>
-<h2>About</h2>
-
 <br>
 <div align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact" alt="skillado"/> 
