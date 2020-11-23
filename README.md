@@ -14,8 +14,8 @@
 [![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact" alt="skillado"/> 
-<img src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true" alt="skillado"/> 
+<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact" alt="skillado"/> 
+<img height="250" src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true" alt="skillado"/> 
 <p align="center">
 <a href="https://twitter.com/drumond019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Drumond019" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/drumond-guilherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="drumond-guilherme" height="20" width="20" /></a>
