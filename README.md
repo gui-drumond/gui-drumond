@@ -9,10 +9,8 @@
 - 🤓🏫 I’m a computer technician, I studied in <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
 </p>
 <h2>About</h2>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/drumond-guilherme/)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
-[![Hotmail](https://img.shields.io/badge/-Hotmail-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:drumond.guilherme@hotmail.com)](mailto:drumond.guilherme@hotmail.com)
-</br>
+
+<br>
 <div align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact" alt="skillado"/> 
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true" alt="skillado"/> 
