@@ -1,15 +1,14 @@
 ###   <h1 align="center"> Hi there! 👋, I'm Guilherme Fernandes Drumond ✨ </h1>
 <h3 align="center">Hello! Welcome to my profile</h3>
 
-
+<p align="center">
 <img  style="margin: 0 auto; justify-content:center;align-items:center" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" alt="Esforço? sempre!" height="250">
-
+</p>
 <p align="left">
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
 - 🤓🏫 I’m a computer technician, I studied in <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
 </p>
 ### About
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/drumond-guilherme/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCRDxA3NGGMuthsTVOkCegDQ)
