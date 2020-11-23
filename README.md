@@ -1,7 +1,6 @@
-###   <p align="center"> Hi there! 👋, Guilherme Fernandes Drumond ✨ </p>
+###   <h1 align="center"> Hi there! 👋, I'm Guilherme Fernandes Drumond ✨ </h1>
+<h3 align="center">Hello! Welcome to my profile</h3>
 
-
-### Hello! Welcome to my profile
 <img style="margin: 0 auto; justify-content:center;align-items:center" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif" height="200">
 
 - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
