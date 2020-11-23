@@ -16,9 +16,9 @@
   
 ### About
 
-![Skillado Status](https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true)
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt="maykbrito"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true" alt="skillado"/> 
 <p align="center">
 <a href="https://twitter.com/drumond019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Drumond019" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/drumond-guilherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="drumond-guilherme" height="20" width="20" /></a>
