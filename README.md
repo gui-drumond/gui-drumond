@@ -7,7 +7,7 @@
 
 <h2>About</h2>
 <p align="left">
-- 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a>
+- 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a> </br>
 - 🤓🏫 I’m a computer technician, I studied in <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
 </p>
 <br>
