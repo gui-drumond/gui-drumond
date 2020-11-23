@@ -12,8 +12,8 @@
 </p>
 <br>
 <div align="center">
-<img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact" alt="skillado"/> 
-<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true" alt="skillado"/> 
+<img width="450" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact" alt="skillado"/> 
+<img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true" alt="skillado"/> 
 <p align="center">
 <a href="https://twitter.com/drumond019" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Drumond019" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/drumond-guilherme" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="drumond-guilherme" height="20" width="20" /></a>
