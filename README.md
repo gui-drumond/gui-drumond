@@ -1,20 +1,17 @@
-<h1 align="center">
-  <a href="https://github.com/skillado">
-  Hello there 
-  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
-  ! I'm Guilherme Fernandes Drumond ! ✨ 
-</h1>
-      
+##  Hello there  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  ! I'm Guilherme Fernandes Drumond ! ✨ 
+    
 <p align="center">
-  <img alt="Conquistando os céus !" height="225em" src="https://giffiles.alphacoders.com/103/103147.gif">  
-  <img alt="Esforço? sempre!" height="225em" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif">
+  <img alt="Conquistando os céus !" height="262em" src="https://giffiles.alphacoders.com/103/103147.gif">  
+  <img alt="Esforço? sempre!" height="262em" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif">
 </p>
-
-<h2> About </h2>
-  <p align="left">
-  - 👷 I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br//">Dextra</a> </br>
-  - 🤓🏫 I’m a computer technician, graduated at <a target="_blank" href="http://www.essj.com.br/cpdb/">Salesiano São José Centro Profissional Dom Bosco</a>
-  </p>
+  
+## About
+- I’m Developer Software intern at <a target="_blank" href="https://www.dextra.com.br">@Dextra</a> </br>
+- 🤓🏫 I’m a computer technician, graduated at <a target="_blank" href="http://www.essj.com.br/cpdb/"> Salesiano São José Centro Profissional Dom Bosco</a>
+- English Intermediate Level 🌎
+- Knowledge of Agile relayed on SCRUM ⚙
+- Ability to work creatively 🧠
+- Currently learning **NextJS**, **ReactJS**, **React Native**, **NodeJS** and **Python** 📚
 <br>
 
 <div style="display: inline_block" align="center"><br>
@@ -26,6 +23,12 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gui-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">  
+  <img align="center" alt="Gui-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gui-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Gui-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gui-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    
 </div>
 
 ##
