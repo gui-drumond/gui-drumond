@@ -1,8 +1,8 @@
 ##  Hello there  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  ! I'm Guilherme Fernandes Drumond ! ✨ 
     
 <p align="center">
-  <img alt="Conquistando os céus !" height="234em" src="https://giffiles.alphacoders.com/103/103147.gif">  
-  <img alt="Esforço? sempre!" height="234em" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif">
+  <img alt="Conquistando os céus !" height="200em" src="https://giffiles.alphacoders.com/103/103147.gif">  
+  <img alt="Esforço? sempre!" height="200em" src="https://sm.ign.com/ign_pt/screenshot/default/tanjiro-a-treinar_hnt6.gif">
 </p>
   
 ## About
