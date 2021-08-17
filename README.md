@@ -28,13 +28,12 @@
 
 ##
 
-<div style="display: flex;">
- <img style="margin-right: 30px" height="200em" src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skillado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/skillado/skillado/blob/output/github-contribution-grid-snake.svg)
- 
 
 ##
 
