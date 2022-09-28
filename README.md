@@ -6,7 +6,7 @@
 </p>
   
 ## About
-- I’m Developer Software Pleno at <a target="_blank" href="https://www.ciandt.com">@CIandT</a> </br>
+- I’m Developer Software Mid Level at <a target="_blank" href="https://www.ciandt.com">@CIandT</a> </br>
 - 🤓🏫 I’m a computer technician, graduated at <a target="_blank" href="http://www.essj.com.br/cpdb/"> Salesiano São José Centro Profissional Dom Bosco</a>
 - English Intermediate Level 🌎
 - Knowledge of Agile relayed on SCRUM ⚙
